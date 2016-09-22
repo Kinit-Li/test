@@ -10,4 +10,5 @@ public class HelloWorld {
 	int g;
 	int h;
 	int i;
+	int j;
 }
