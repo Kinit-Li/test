@@ -8,4 +8,5 @@ public class HelloWorld {
 	int e;
 	int f;
 	int g;
+	int h;
 }
