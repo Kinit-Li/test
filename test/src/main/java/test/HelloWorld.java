@@ -11,4 +11,5 @@ public class HelloWorld {
 	int h;
 	int i;
 	int j;
+	int l;
 }
