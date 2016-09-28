@@ -7,5 +7,6 @@ public class Hello {
 	int bb;
 	int cc;
 	int dd;
+	int ee;
 
 }
