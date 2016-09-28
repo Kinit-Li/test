@@ -4,5 +4,6 @@ public class Hello {
 	
 	int i;
 	int aa;
+	int bb;
 
 }
